@@ -1,0 +1,73 @@
+{
+  "header": "Real-time data analysis",
+  "helmet": "Real-time data analysis | SEDMAX",
+  "placeholders": {
+    "search": "Enter the name..."
+  },
+  "nodata": "n/a",
+  "value": "Value",
+  "status": "Status",
+  "timeIntervals": {
+    "lastMonth": "Last month",
+    "currentMonth": "Current month",
+    "lastSevenDays": "Last 7 days",
+    "today": "Today"
+  },
+  "statuses": {
+    "status0": "Disabled",
+    "status1": "Normal",
+    "status2": "Processing error",
+    "status3": "Receiving error",
+    "status4": "Manually substituted",
+    "status5": "Manual substitution in arguments",
+    "status6": "Device disabled",
+    "status7": "Waiting new data",
+    "status8": "Bad quality",
+    "boundDescription": "boundary point"
+  },
+  "limitstatus": {
+    "status1": "Upper physical limit",
+    "status2": "Upper alarm limit",
+    "status3": "Upper warning limit",
+    "status4": "Lower physical limit",
+    "status5": "Lower alarm limit",
+    "status6": "Lower warning limit"
+  },
+  "labels": {
+    "objects": "Devices",
+    "elements": "Objects",
+    "chart": "Chart",
+    "tree": "Tree",
+    "search": "Search",
+    "rtdTable": "Real-time data",
+    "collapseTree": "Collapse tree",
+    "expandTree": "Expand tree",
+    "recalculatingArea": "Workspace recalculation...",
+    "chooseTimeAndParams": "Select parameters and time interval"
+  },
+  "rtdTable": {
+    "columns": {
+      "status": "Status",
+      "name": "Name",
+      "value": "Value",
+      "unit": "Units",
+      "manualInput": "Manual control",
+      "device": "Device",
+      "elements": "Object",
+      "changedValueTs": "Last changed time"
+    }
+  },
+  "messages": {
+    "retryRequest": "Retry request",
+    "imConfiguration": "IM configuration",
+    "devicesConfiguration": "Devices configuration",
+    "searchMessage": "Search result",
+    "searchDescriptionBeginning": "For the search query",
+    "searchDescriptionEnding": "nothing was found",
+    "error": "Error!",
+    "errorDescription": "An error occurred while loading data.",
+    "errorReceivingData": "Error receiving data.",
+    "connectionError": "Connection error!",
+    "connectionErrorDescription": "An error occurred during connection/reconnection."
+  }
+}
