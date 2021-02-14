@@ -71,7 +71,7 @@ module.exports = {
       },
       modifyVars: {
         "text-color": "#000",
-        "primary-color": "#008080",
+        "primary-color": "#f96d00",
       },
     }),
     addBundleVisualizer({}, true),

@@ -1,5 +1,13 @@
 .numberColumn {
+    background-color: var(--gray4);
+    border: 1px solid var(--orange-light);
+    border-radius: var(--border-radius);
     padding: 1rem;
-    background-color: lightgreen;
-    margin: 1rem;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+    min-width: 3rem;
+    max-width: 5rem;
+}
+
+.numberColumn:last-child {
+    margin-right: 0;
 }
